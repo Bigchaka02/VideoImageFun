@@ -1,3 +1,7 @@
+*NOTE* haarscascade thing isn't mine just found it online
+
+
+
 ## OpenCV filters
 Real time image and video filtering using OpenCV.
 
